@@ -7,4 +7,4 @@ Marvin is a robot from The Hitchhiker's Guide to the Galaxy. He was created by t
 * very intelligent
 * knows the question to life, the universe and everything but won't tell it
 * hates his job
-> "I think you ought to know I'm feeling very depressed."
+> I think you ought to know I'm feeling very depressed.
